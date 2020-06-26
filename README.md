@@ -9,7 +9,7 @@ Add qnwificonnect dependency to build.gradle in app module.
 ## Gradle
 ```groovy
 dependencies {
-    implementation 'com.github.Nareshthakor:QNWifiConnect:1.0'
+    implementation 'com.qntm.qnwificonnection:1.0.0'
 }
 
 
